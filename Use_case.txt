@@ -1,0 +1,48 @@
+Title: Exploring Astronomical Images with SDSS Image Retrieval System
+
+Primary Actor: Astronomy Enthusiast
+
+Goal: Provide a platform for users to access, visualize, and analyze astronomical images from the Sloan Digital Sky Survey (SDSS) database.
+
+Preconditions:
+
+The user has access to a device with internet connectivity.
+The user is familiar with basic Python programming for executing provided code snippets.
+The user has basic knowledge of celestial coordinates and astronomical terminology.
+
+Main Success Scenario:
+
+Specify Region of Interest:
+
+The user navigates to the SDSS Image Retrieval System interface through a web browser. Within the interface, the user enters the coordinates (Right Ascension and Declination) corresponding to their area of interest.
+They may also specify other parameters such as scale and image processing options, if available.
+
+Retrieving and Displaying Images:
+
+The user executes the provided code snippet within a Python environment to initiate the image retrieval process.
+The SDSS Image Retrieval System connects to the SDSS database using the provided coordinates and retrieves astronomical images based on the specified parameters.
+Retrieved images are displayed within the Python environment, allowing the user to view and analyze them.
+
+Exploring Celestial Objects:
+
+Using the functionalities provided by the Python environment, the user explores individual images to examine celestial objects in detail.
+They may identify galaxies, star clusters, or nebulae within the images and make observations or notes as needed.
+
+Analyzing and Organizing Data:
+
+The user may utilize tools within the Python environment to label and organize retrieved images based on their celestial coordinates.
+They may save the labeled images locally for further analysis or future reference.
+
+
+Postconditions:
+
+The user successfully explores and analyzes astronomical images retrieved from the SDSS database using the SDSS Image Retrieval System.
+Labeled and organized images are saved locally, facilitating further research and analysis.
+
+Extensions:
+
+The user may customize the code snippet and parameters according to their specific research interests and preferences, enabling further exploration of different regions of the sky or adjustment of image processing options.
+
+Notes:
+
+The SDSS Image Retrieval System provides a convenient platform for accessing and analyzing astronomical images, empowering users to engage in meaningful exploration and discovery within the realm of astronomy.
